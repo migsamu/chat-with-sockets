@@ -22,8 +22,10 @@ public class SendTask implements Runnable {
     @Override
     public void run() {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream()))) {
-            String message = reader.readLine();
-            log.info(message);
+            while (true) {
+                String message = reader.readLine();
+                log.info(message);
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -24,7 +24,6 @@ public class AskTask implements Runnable {
     public void run() {
         try (PrintWriter writer = new PrintWriter(socket.getOutputStream())) {
             while (true) {
-                log.info("Escribe un mensaje");
                 String message = scanner.nextLine();
                 writer.println(message);
                 writer.flush();

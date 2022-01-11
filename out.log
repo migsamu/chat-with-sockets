@@ -14,3 +14,54 @@
 2021-12-15 13:14:34 INFO  SendTask:26 - hola
 2021-12-15 13:14:34 INFO  SendTask:26 - 
 2021-12-15 13:14:41 INFO  AskTask:27 - Escribe un mensaje
+2021-12-15 13:50:11 INFO  AskTask:27 - Escribe un mensaje
+2021-12-15 13:50:11 INFO  SendTask:26 - ¡Bienvenido al chat!
+2021-12-15 13:50:17 INFO  AskTask:27 - Escribe un mensaje
+2021-12-15 13:50:30 INFO  AskTask:27 - Escribe un mensaje
+2021-12-15 13:51:17 INFO  AskTask:27 - Escribe un mensaje
+2021-12-15 13:51:17 INFO  SendTask:26 - ¡Bienvenido al chat!
+2021-12-15 13:51:36 INFO  AskTask:27 - Escribe un mensaje
+2021-12-15 13:51:36 INFO  SendTask:26 - ¡Bienvenido al chat!
+2022-01-11 08:48:07 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:48:07 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:48:23 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:48:23 INFO  SendTask:26 - que pasa
+2022-01-11 08:48:23 INFO  SendTask:26 - 
+2022-01-11 08:48:41 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:48:51 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:10 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:10 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:15 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:15 INFO  SendTask:26 - hola
+2022-01-11 08:49:15 INFO  SendTask:26 - 
+2022-01-11 08:49:22 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:32 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:36 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:38 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:39 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:40 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:42 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:43 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:45 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:49:48 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:52:45 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:52:45 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:53:24 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:53:24 INFO  SendTask:26 - hola
+2022-01-11 08:53:24 INFO  SendTask:26 - 
+2022-01-11 08:53:39 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:53:51 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:54:01 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:54:05 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:57:39 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:57:39 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:57:45 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:57:45 INFO  SendTask:27 - hola
+2022-01-11 08:57:54 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:57:54 INFO  SendTask:27 - que tal?
+2022-01-11 08:58:08 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:58:08 INFO  SendTask:27 - bien, aqui en clase de programacion
+2022-01-11 08:58:24 INFO  AskTask:27 - Escribe un mensaje
+2022-01-11 08:58:24 INFO  SendTask:27 - muy bien, pues disffruta
+2022-01-11 08:58:29 INFO  SendTask:27 - gracias!
+2022-01-11 08:58:29 INFO  AskTask:27 - Escribe un mensaje
