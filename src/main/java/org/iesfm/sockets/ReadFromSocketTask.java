@@ -8,26 +8,26 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.Socket;
 
-public class SendTask implements Runnable {
+public class ReadFromSocketTask implements Runnable {
 
-    private final static Logger log = LoggerFactory.getLogger(SendTask.class);
+    private final static Logger log = LoggerFactory.getLogger(ReadFromSocketTask.class);
 
 
     private Socket socket;
 
-    public SendTask(Socket socket) {
+    public ReadFromSocketTask(Socket socket) {
         this.socket = socket;
     }
 
     @Override
     public void run() {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream()))) {
-            while (true) {
-                String message = reader.readLine();
-                log.info(message);
+            String line;
+            while ((line = reader.readLine()) != null) {
+                log.info(line);
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            log.error("Error al leer del socket", e);
         }
     }
 }

@@ -65,3 +65,10 @@
 2022-01-11 08:58:24 INFO  SendTask:27 - muy bien, pues disffruta
 2022-01-11 08:58:29 INFO  SendTask:27 - gracias!
 2022-01-11 08:58:29 INFO  AskTask:27 - Escribe un mensaje
+2022-01-15 19:06:03 INFO  ServerMain:20 - Arrancando servidor.
+2022-01-15 19:06:03 INFO  ServerMain:22 - Esperando conexión...
+2022-01-15 19:06:05 INFO  ClientMain:20 - Arrancando cliente...
+2022-01-15 19:06:05 INFO  ChatApp:20 - Introduce tu alias
+2022-01-15 19:06:05 INFO  ChatApp:20 - Introduce tu alias
+2022-01-15 19:06:43 INFO  ReadFromSocketTask:27 - Server: buenas tardes
+2022-01-15 19:07:07 INFO  ReadFromSocketTask:27 - miguel: que tal, tengo dudas sobre la taya a elegir en el casco
